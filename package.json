@@ -1,0 +1,5 @@
+{
+  "name": "test-re-export-types",
+  "private": true,
+  "workspaces": ["child", "grandchild", "parent"]
+}
